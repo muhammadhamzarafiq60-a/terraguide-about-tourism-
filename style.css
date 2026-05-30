@@ -1,0 +1,50 @@
+ /* start date=25 may 2026  */
+body {
+    background: #fef8ed;
+    font-family: 'Segoe UI', system-ui;
+}
+
+.navbar.bg-primary {
+    background: linear-gradient(135deg, #0f2b1d, #1a4730) !important;
+}
+
+.navbar.bg-dark {
+    background: #2d2a24 !important;
+}
+
+.card {
+    border-radius: 20px;
+    border: none;
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+.btn-primary {
+    background-color: #d4a373;
+    border-color: #d4a373;
+    color: #2d2a24;
+}
+.btn-primary:hover {
+    background-color: #b88352;
+    border-color: #b88352;
+}
+
+.place-card img {
+    height: 200px;
+    object-fit: cover;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.badge-location {
+    background-color: #1a4730;
+    color: white;
+}
+
+.invalid-feedback {
+    font-size: 0.8rem;
+}
+/* end date =26 may 2026 */
