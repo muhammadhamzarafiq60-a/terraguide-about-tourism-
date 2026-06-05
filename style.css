@@ -19,6 +19,7 @@ body {
 }
 
 .card:hover {
+    box-shadow: 12px;
     transform: translateY(-5px);
 }
 
@@ -47,4 +48,40 @@ body {
 .invalid-feedback {
     font-size: 0.8rem;
 }
+/* Custom styles with dark mode variables */
+:root {
+    --bg-light: #fef8ed;
+    --text-light: #2d2a24;
+    --card-bg-light: #ffffff;
+    --border-light: #e9ecef;
+}
+[data-bs-theme="dark"] {
+    --bg-light: #1a1a2e;
+    --text-light: #f0f0f0;
+    --card-bg-light: #16213e;
+    --border-light: #2c3e50;
+}
+body {
+    background-color: var(--bg-light);
+    color: var(--text-light);
+    transition: background 0.3s, color 0.3s;
+}
+.card {
+    background-color: var(--card-bg-light);
+    border: 1px solid var(--border-light);
+}
+.place-card img {
+    height: 200px;
+    object-fit: cover;
+}
+.navbar.bg-primary {
+    background: linear-gradient(135deg, #0f2b1d, #1a4730) !important;
+}
+.btn-primary {
+    background-color: #d4a373;
+    border-color: #d4a373;
+    color: #2d2a24;
+}
+.btn-primary:hover {
+    background-color: #b88352;
 /* end date =26 may 2026 */
