@@ -1,0 +1,380 @@
+{
+  "places": [
+    {
+      "id": 1,
+      "name": "Derawar Fort",
+      "location": "Ahmedpur East, Cholistan Desert",
+      "era": "9th Century",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Beautiful_Derawar_Fort.jpg/960px-Beautiful_Derawar_Fort.jpg",
+      "history": "Massive square fortress with 40 bastions, built by Rai Jajja Bhatti. Later captured by Abbasi Nawabs.",
+      "significance": "Geography: 100 km from Bahawalpur, in the heart of Cholistan Desert.",
+      "bestSeason": "November to February",
+      "entryFee": 50
+    },
+    {
+      "id": 2,
+      "name": "Noor Mahal",
+      "location": "Bahawalpur City",
+      "era": "1872",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/NoorMahal1.JPG/960px-NoorMahal1.JPG",
+      "history": "Italian chateau-style palace built by Nawab Sadiq Muhammad Khan IV. First palace in subcontinent with electricity.",
+      "significance": "Geography: On the outskirts of Bahawalpur, surrounded by manicured gardens.",
+      "bestSeason": "October to March",
+      "entryFee": 200
+    },
+    {
+      "id": 3,
+      "name": "Lal Suhanra National Park",
+      "location": "8 km east of Bahawalpur",
+      "era": "1972",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lal_Suhanra_Bahawalpur.JPG/960px-Lal_Suhanra_Bahawalpur.JPG",
+      "history": "UNESCO Biosphere Reserve. Home to blackbuck, chinkara, and 160+ bird species.",
+      "significance": "Geography: Eastern edge of Bahawalpur, bordering Cholistan.",
+      "bestSeason": "November to March",
+      "entryFee": 300
+    },
+    {
+      "id": 4,
+      "name": "Bahawalpur Museum",
+      "location": "Bahawalpur City",
+      "era": "1976",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/DARBAR_MAHAL_BAHAWAL_PUR.jpg/960px-DARBAR_MAHAL_BAHAWAL_PUR.jpg",
+      "history": "Houses Indus Valley artifacts, Quranic manuscripts, and a camel-mounted gun.",
+      "significance": "Geography: Central Bahawalpur on Minister's Road.",
+      "bestSeason": "All year",
+      "entryFee": 20
+    },
+    {
+      "id": 5,
+      "name": "Uch Sharif",
+      "location": "75 km from Bahawalpur",
+      "era": "13th-15th Century",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Shrine_in_Uch_Sharif.jpg/960px-Shrine_in_Uch_Sharif.jpg",
+      "history": "Ancient Sufi center with glazed tile shrines, including Bibi Jawindi's tomb (UNESCO tentative).",
+      "significance": "Geography: Confluence of Chenab and Sutlej rivers.",
+      "bestSeason": "November to February",
+      "entryFee": 0
+    },
+    {
+      "id": 6,
+      "name": "Sadiq Garh Palace",
+      "location": "Dera Nawab, 20 km from Bahawalpur",
+      "era": "1882-1910",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Gulzar_Mahal_Bahawalpur.jpg/960px-Gulzar_Mahal_Bahawalpur.jpg",
+      "history": "Primary residence of Abbasi rulers. Fusion of Rajput, Mughal, and European styles.",
+      "significance": "Geography: Southwest of Bahawalpur, surrounded by date palm groves.",
+      "bestSeason": "October to March",
+      "entryFee": 500
+    },
+    {
+      "id": 7,
+      "name": "Abbasi Mosque",
+      "location": "Bahawalpur City",
+      "era": "1849",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Abbasi_mosque_-_View_from_Derawar_Fort.jpg/960px-Abbasi_mosque_-_View_from_Derawar_Fort.jpg",
+      "history": "Mughal-style mosque with three marble domes and 80-ft minarets.",
+      "significance": "Geography: Circular Road, built on a raised platform.",
+      "bestSeason": "All year",
+      "entryFee": 0
+    },
+    {
+      "id": 8,
+      "name": "Din garh Fort",
+      "location": "Cholistan Desert, 130 km from Bahawalpur",
+      "era": "Pre-Islamic",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Beautiful_Derawar_Fort.jpg/960px-Beautiful_Derawar_Fort.jpg",
+      "history": "Ancient desert fort in ruins, with 12 bastions and a dry moat.",
+      "significance": "Geography: Deep inside Cholistan, on a limestone ridge.",
+      "bestSeason": "November to February",
+      "entryFee": 0
+    },
+    {
+      "id": 9,
+      "name": "Jamia Masjid Al-Sadiq",
+      "location": "Bahawalpur City",
+      "era": "1935",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/The_grand_mosque_Jamia_Masjid_Al-Sadiq.jpg/960px-The_grand_mosque_Jamia_Masjid_Al-Sadiq.jpg",
+      "history": "Largest mosque in Bahawalpur, with 11 domes and 120-ft minarets.",
+      "significance": "Geography: Ahmedpur Road, at the city's highest point.",
+      "bestSeason": "All year",
+      "entryFee": 0
+    },
+    {
+      "id": 10,
+      "name": "Cholistan Desert",
+      "location": "Cholistan region, 40 km from Bahawalpur",
+      "era": "Geographic region",
+      "image": " data:image/jpeg;base64,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",
+      "history": "16,000 sq km desert with ancient forts, nomadic culture, and annual Jeep Rally.",
+      "significance": "Geography: Sand dunes up to 100 m high. Rainfall under 150 mm/year.",
+      "bestSeason": "November to February",
+      "entryFee": 0
+    },
+    {
+      "id": 11,
+      "name": "Gulzar Mahal",
+      "location": "Bahawalpur City",
+      "era": "1920s",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Gulzar_Mahal_Bahawalpur.jpg/960px-Gulzar_Mahal_Bahawalpur.jpg",
+      "history": "Italian-Renaissance guest house for British officials. Famous rose gardens.",
+      "significance": "Geography: Model Town A area, built on slight elevation.",
+      "bestSeason": "October to March",
+      "entryFee": 300
+    },
+    {
+      "id": 12,
+      "name": "Tomb of Bibi Jawindi",
+      "location": "Uch Sharif",
+      "era": "1493",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Tomb_of_Bibi_Jawindi%2C_Uch_Sharif.jpg/960px-Tomb_of_Bibi_Jawindi%2C_Uch_Sharif.jpg",
+      "history": "Finest pre-Mughal architecture with blue/turquoise glazed tiles. UNESCO tentative.",
+      "significance": "Geography: Old Uch Sharif, near dry Sutlej riverbed.",
+      "bestSeason": "November to February",
+      "entryFee": 0
+    },
+    {
+      "id": 13,
+      "name": "Darbar Mahal",
+      "location": "Bahawalpur City",
+      "era": "1904",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/DARBAR_MAHAL_BAHAWAL_PUR.jpg/960px-DARBAR_MAHAL_BAHAWAL_PUR.jpg",
+      "history": "Royal court and ceremonial hall, blending Mughal, Rajput, and European styles.",
+      "significance": "Geography: Near Farid Gate, red sandstone from Rajasthan.",
+      "bestSeason": "October to March",
+      "entryFee": 100
+    },
+    {
+      "id": 14,
+      "name": "Nishat Mahal",
+      "location": "Ahmedpur East, 20 km from Bahawalpur",
+      "era": "1920s",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/NoorMahal1.JPG/960px-NoorMahal1.JPG",
+      "history": "Private summer palace with pastel frescoes and stained glass.",
+      "significance": "Geography: On the banks of a now-dry canal, for cooling breezes.",
+      "bestSeason": "October to March",
+      "entryFee": 0
+    },
+    {
+      "id": 15,
+      "name": "Mankera Fort",
+      "location": "Mankera, near Cholistan border",
+      "era": "15th Century",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Beautiful_Derawar_Fort.jpg/960px-Beautiful_Derawar_Fort.jpg",
+      "history": "Ancient desert fort in ruins, with massive mud-brick walls and watchtowers.",
+      "significance": "Geography: On a limestone hill overlooking Thal Desert, 150 km from Bahawalpur.",
+      "bestSeason": "November to February",
+      "entryFee": 0
+    },
+    {
+      "id": 16,
+      "name": "Bahawal Victoria Hospital",
+      "location": "Bahawalpur City",
+      "era": "1906",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/DARBAR_MAHAL_BAHAWAL_PUR.jpg/960px-DARBAR_MAHAL_BAHAWAL_PUR.jpg",
+      "history": "Historic hospital built during British era, named after Queen Victoria.",
+      "significance": "Geography: Circular Road. Colonial-era architecture.",
+      "bestSeason": "All year",
+      "entryFee": 0
+    },
+    {
+      "id": 17,
+      "name": "Farid Gate",
+      "location": "Bahawalpur City",
+      "era": "19th Century",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Farid_Gate_chowk_Bahawalpur.jpg/960px-Farid_Gate_chowk_Bahawalpur.jpg",
+      "history": "One of the original seven gates of the walled city of Bahawalpur.",
+      "significance": "Geography: Entrance to the old city bazaar.",
+      "bestSeason": "All year",
+      "entryFee": 0
+    },
+    {
+      "id": 18,
+      "name": "Ahmedpur East Fort",
+      "location": "Ahmedpur East, 30 km from Bahawalpur",
+      "era": "18th Century",
+      "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv9V0hemX7hKkyLQEqNJRt5Um0rC0ymkYgzg&s",
+      "history": "Lesser-known fort built by local rulers. Used as a caravanserai.",
+      "significance": "Geography: On the old Multan-Bahawalpur road.",
+      "bestSeason": "November to February",
+      "entryFee": 0
+    },
+    {
+      "id": 19,
+      "name": "Patiala House",
+      "location": "Bahawalpur Cantonment",
+      "era": "1930s",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Gulzar_Mahal_Bahawalpur.jpg/960px-Gulzar_Mahal_Bahawalpur.jpg",
+      "history": "Former residence of the Maharaja of Patiala. Later a British rest house.",
+      "significance": "Geography: Inside cantonment area. Colonial bungalow.",
+      "bestSeason": "October to March",
+      "entryFee": 0
+    },
+    {
+      "id": 20,
+      "name": "Tomb of Nawab Bahawal Khan",
+      "location": "Derawar Fort premises",
+      "era": "19th Century",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Abbasi_mosque_-_View_from_Derawar_Fort.jpg/960px-Abbasi_mosque_-_View_from_Derawar_Fort.jpg",
+      "history": "Ornate marble tomb of Nawab Bahawal Khan.",
+      "significance": "Geography: Inside Derawar Fort walls.",
+      "bestSeason": "November to February",
+      "entryFee": 0
+    },
+    {
+      "id": 21,
+      "name": "Jalaluddin Bukhari Shrine",
+      "location": "Uch Sharif",
+      "era": "13th Century",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Shrine_of_Hazrat_Jalaluddin_Bukhari_Uch_Sharif.jpg/960px-Shrine_of_Hazrat_Jalaluddin_Bukhari_Uch_Sharif.jpg",
+      "history": "Shrine of the famous Sufi saint Jalaluddin Bukhari.",
+      "significance": "Geography: Next to Bibi Jawindi tomb.",
+      "bestSeason": "November to February",
+      "entryFee": 0
+    },
+    {
+      "id": 22,
+      "name": "Channan Pir",
+      "location": "Cholistan Desert, 80 km from Bahawalpur",
+      "era": "Ancient",
+      "image": " data:image/jpeg;base64,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",
+      "history": "Sacred shrine of a Sufi saint deep in the desert.",
+      "significance": "Geography: Isolated sand dune location.",
+      "bestSeason": "November to February",
+      "entryFee": 0
+    },
+    {
+      "id": 23,
+      "name": "Museum of Cholistan",
+      "location": "Bahawalpur City",
+      "era": "2005",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/DARBAR_MAHAL_BAHAWAL_PUR.jpg/960px-DARBAR_MAHAL_BAHAWAL_PUR.jpg",
+      "history": "Modern museum dedicated to Cholistan desert culture.",
+      "significance": "Geography: Attached to Bahawalpur Museum.",
+      "bestSeason": "All year",
+      "entryFee": 30
+    },
+    {
+      "id": 24,
+      "name": "Sutlej River Park",
+      "location": "Bahawalpur City",
+      "era": "2010",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Sutlej_River.jpg/960px-Sutlej_River.jpg",
+      "history": "Recreational park built along the dried Sutlej riverbed.",
+      "significance": "Geography: On the edge of the city, following the historic river course.",
+      "bestSeason": "October to March",
+      "entryFee": 20
+    },
+    {
+      "id": 25,
+      "name": "Bhong Mosque",
+      "location": "Rahim Yar Khan (near Bahawalpur border)",
+      "era": "1982",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bhong_Masjid_Front_view.jpg/960px-Bhong_Masjid_Front_view.jpg",
+      "history": "Award-winning modern mosque with intricate woodwork and gold leaf.",
+      "significance": "Geography: About 200 km south of Bahawalpur.",
+      "bestSeason": "All year",
+      "entryFee": 0
+    }
+  ],
+  "bookings": [
+    {
+      "id": 1,
+      "name": "Ali Raza",
+      "email": "ali@example.com",
+      "phone": "03001234567",
+      "travelDate": "2026-12-20",
+      "interestedPlace": "Derawar Fort",
+      "message": "Need a 4x4 jeep and guide.",
+      "createdAt": "2026-05-30T10:00:00Z"
+    },
+    {
+      "name": "ali",
+      "email": "hi@gmail.com",
+      "phone": "030012345678",
+      "travelDate": "2026-06-06",
+      "interestedPlace": "cholistan desert",
+      "message": "",
+      "createdAt": "2026-06-06T11:42:24.798Z",
+      "id": 2
+    }
+  ],
+  "packages": [
+    {
+      "id": 1,
+      "title": "Cholistan Desert Explorer",
+      "duration": "2 Days / 1 Night",
+      "price": "PKR 8,500",
+      "description": "Overnight camp in desert, jeep safari, sunrise at Derawar Fort.",
+      "includes": [
+        "4x4 transport",
+        "1 night camp",
+        "3 meals",
+        "guide",
+        "camel ride"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Royal Heritage Tour",
+      "duration": "1 Day",
+      "price": "PKR 4,000",
+      "description": "Visit Noor Mahal, Sadiq Garh Palace, and Bahawalpur Museum.",
+      "includes": [
+        "AC transport",
+        "guide",
+        "lunch",
+        "entry fees"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Wildlife Safari",
+      "duration": "1 Day",
+      "price": "PKR 5,000",
+      "description": "Explore Lal Suhanra National Park with birdwatching guide.",
+      "includes": [
+        "safari vehicle",
+        "binoculars",
+        "picnic lunch",
+        "entry fees"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Sufi Shrines of Uch",
+      "duration": "1 Day",
+      "price": "PKR 6,000",
+      "description": "Spiritual journey to Uch Sharif's glazed tile shrines.",
+      "includes": [
+        "transport",
+        "Sufi history expert",
+        "traditional lunch"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Complete Cholistan Circuit",
+      "duration": "3 Days / 2 Nights",
+      "price": "PKR 18,000",
+      "description": "Multi-fort expedition with stargazing and cultural performances.",
+      "includes": [
+        "4x4 convoy",
+        "2 nights camping",
+        "all meals",
+        "cultural show"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Bahawalpur City Express",
+      "duration": "Half Day",
+      "price": "PKR 2,500",
+      "description": "Quick highlights of the city: palaces, museum, and local bazaar.",
+      "includes": [
+        "auto-rickshaw",
+        "guide",
+        "snacks"
+      ]
+    }
+  ]
+}
